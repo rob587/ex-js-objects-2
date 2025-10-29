@@ -17,6 +17,9 @@ console.log(hamburger.name); // ?
 console.log(secondBurger.name ); // ?
 
     Senza lanciare il codice, riesci a prevedere cosa viene stampato in console?
+
+
+
     Quanti oggetti sono stati creati in memoria durante l'esecuzione di questo codice?
 
 🏆 Code Question 2
@@ -46,6 +49,9 @@ console.log(secondBurger.ingredients[0]); // ?
 P.S.: Ricordati che gli Array, come gli oggetti, sono dei Reference Type (Tipi di Riferimento)!
 
     Senza lanciare il codice, riesci a prevedere cosa viene stampato in console?
+
+
+
     Quanti oggetti sono stati creati in memoria durante l'esecuzione di questo codice?
 
 🏆 Code Question 3
@@ -84,6 +90,8 @@ const thirdBurger = structuredClone(hamburger);
 
     Quanti oggetti sono stati creati in memoria durante l'esecuzione di questo codice?
 
+---
+
 🏆 Code Question 4
 
 const chef = {
@@ -121,6 +129,8 @@ const restaurant = {
 };
 
     Qual è il metodo migliore per clonare l’oggetto chef, e perché?
+
+
     Qual è il metodo migliore per clonare l’oggetto restaurant, e perché?
 
 🎯 Code Question 5 (Bonus)
