@@ -53,9 +53,12 @@ P.S.: Ricordati che gli Array, come gli oggetti, sono dei Reference Type (Tipi d
 
     Senza lanciare il codice, riesci a prevedere cosa viene stampato in console?
 
-
+    in tutti e 2 i log sarà con "Salad"
 
     Quanti oggetti sono stati creati in memoria durante l'esecuzione di questo codice?
+
+    sono stati creati in memoria 3 oggetti, hamburger, ingredients, secondBurger
+    ------------------------------------------------------
 
 🏆 Code Question 3
 
