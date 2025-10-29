@@ -140,6 +140,7 @@ const restaurant = {
     userei lo spread operator, perchè non ha proprietà annidate
 
     Qual è il metodo migliore per clonare l’oggetto restaurant, e perché?
+    per clonare restaurant userei la deep copy(structured), per oggetti complessi come opening date oppure isOpen
 
 🎯 Code Question 5 (Bonus)
 
