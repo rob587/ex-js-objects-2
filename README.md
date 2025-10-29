@@ -96,6 +96,8 @@ const thirdBurger = structuredClone(hamburger);
 
     Quanti oggetti sono stati creati in memoria durante l'esecuzione di questo codice?
 
+    vengono creati in memoria 12 oggetti, perchè hamburger ha l'oggetto principale: hamburger, maker e restaurant(dentro maker), se applichiamo la deep copy tutto il blocco viene creato in memoria
+
 ---
 
 🏆 Code Question 4
@@ -135,7 +137,7 @@ const restaurant = {
 };
 
     Qual è il metodo migliore per clonare l’oggetto chef, e perché?
-
+    userei lo spread operator, perchè non ha proprietà annidate
 
     Qual è il metodo migliore per clonare l’oggetto restaurant, e perché?
 
