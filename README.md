@@ -18,9 +18,12 @@ console.log(secondBurger.name ); // ?
 
     Senza lanciare il codice, riesci a prevedere cosa viene stampato in console?
 
-
+    i 2 console log stamperanno double cheese burger
 
     Quanti oggetti sono stati creati in memoria durante l'esecuzione di questo codice?
+
+    solo il name
+    -----------------------------
 
 🏆 Code Question 2
 
